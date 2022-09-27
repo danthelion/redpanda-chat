@@ -1,0 +1,2 @@
+A very minimal chat application backed by Redpanda.
+See article for details: https://medium.com/@danthelion/an-introduction-to-redpanda-creating-a-chat-application-in-python-in-less-than-100-lines-of-code-a5f375cc8e84
